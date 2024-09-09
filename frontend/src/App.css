@@ -3,7 +3,7 @@
 .App {
   min-height: 100vh;
   display: flex;
-  background-color:rgba(88, 67, 100, 1);
+  background-color:rgb(242, 238, 244);
   background-position: center;
   background-size: cover;
 }
